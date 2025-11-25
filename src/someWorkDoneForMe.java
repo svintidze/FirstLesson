@@ -1,4 +1,4 @@
-public class firstHomeWork {
+public class someWorkDoneForMe {
     public static void main(String[] args) {
         String p = "ვნახოთ ახალ ფაილს როგორ გადავიტან გითზე";
         System.out.println(p);
@@ -68,7 +68,6 @@ public class firstHomeWork {
                                 (temp <39) ? "fever":
                                         "High fever";
         System.out.println(fever);
-
 
     }
 }
